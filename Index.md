@@ -13,3 +13,6 @@ All solved problems organized by pattern/category.
 
 ## Uncategorized
 - [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) - *Easy*
+
+## Trees
+- [Convert Sorted Array to Binary Search Tree](./LeetCode/Easy/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree) - *Easy*

@@ -10,6 +10,7 @@ All solved problems organized by pattern/category.
 - [Q1. Set Mismatch](./LeetCode/Easy/Q1%20Set%20Mismatch) - *Easy*
 
 ## Linked List
+- [Remove Nth Node From End of List](./LeetCode/Medium/Remove%20Nth%20Node%20From%20End%20of%20List) - *Medium*
 - [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) - *Medium*
 
 ## Uncategorized

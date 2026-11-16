@@ -18,3 +18,6 @@ All solved problems organized by pattern/category.
 
 ## Trees
 - [Convert Sorted Array to Binary Search Tree](./LeetCode/Easy/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree) - *Easy*
+
+## Stack
+- [Q3. Exclusive Time of Functions](./LeetCode/Medium/Q3%20Exclusive%20Time%20of%20Functions) - *Medium*

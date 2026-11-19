@@ -20,5 +20,6 @@ All solved problems organized by pattern/category.
 - [Convert Sorted Array to Binary Search Tree](./LeetCode/Easy/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree) - *Easy*
 
 ## Stack
+- [Q2. Daily Temperatures](./LeetCode/Medium/Q2%20Daily%20Temperatures) - *Medium*
 - [Q1. Final Prices With a Special Discount in a Shop](./LeetCode/Easy/Q1%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop) - *Easy*
 - [Q3. Exclusive Time of Functions](./LeetCode/Medium/Q3%20Exclusive%20Time%20of%20Functions) - *Medium*
